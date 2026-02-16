@@ -1,0 +1,5 @@
+{
+  "message": "Hello from PROD",
+  "logLevel": "error",
+  "port": 8081
+}
