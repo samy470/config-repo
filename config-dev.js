@@ -1,5 +1,5 @@
-module.exports = {
-  message: "Hello from DEV environment",
-  logLevel: "debug",
-  port: 8081
-};
+{
+  "message": "Hello from DEFAULT",
+  "logLevel": "info",
+  "port": 8081
+}
