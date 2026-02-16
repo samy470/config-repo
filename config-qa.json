@@ -1,0 +1,5 @@
+{
+  "message": "Hello from QA",
+  "logLevel": "warn",
+  "port": 8081
+}
